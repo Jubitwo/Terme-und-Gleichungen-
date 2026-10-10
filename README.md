@@ -6,7 +6,11 @@ Interaktive Lernseite für die Klassen 7 und 8 zu Termen, Variablen, Gleichungen
 
 Werte in Terme einsetzen, gleichartige Terme zusammenfassen, Gleichungen mit einem Waagenmodell lösen sowie ausmultiplizieren und ausklammern. Anschließend folgen gestufte Aufgaben.
 
-## Schnellstart
+## Online öffnen
+
+[Terme und Gleichungen](https://jubitwo.github.io/Terme-und-Gleichungen-/)
+
+## Lokal starten
 
 Repository herunterladen oder klonen und [index.html](./index.html) in einem aktuellen Browser öffnen.
 
